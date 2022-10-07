@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436824277968",
+    "project_id": "projeto-firebase-ced4e",
+    "storage_bucket": "projeto-firebase-ced4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436824277968:android:37cfa1c34531f4a448efd5",
+        "android_client_info": {
+          "package_name": "com.adriana.projetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436824277968-ma5k8la5pg1jtfleq2fom948o12ilsrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWgGNFFG2h7bb3s2vL3dl5TL9A-tVgUN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436824277968-ma5k8la5pg1jtfleq2fom948o12ilsrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
