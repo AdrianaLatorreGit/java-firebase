@@ -1,4 +1,4 @@
-# kotlin-firebase
+# Java-firebase
 
 Kotlin project with Firebase database and authentications.
 
